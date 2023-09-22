@@ -49,6 +49,7 @@ const getAllHomelessForDashboardService = async () => {
         // orgNodes.push({id: 'ORG' + item["ORG_ID"], label: item['ORG_NAME'], size: 50, style: {fill: '#EBF2FF'},})
         orgNodes.push({
             id: 'ORG' + item["ORG_ID"],
+			size: 70,
             labelLong: item['ORG_NAME'],
             label: item['ORG_NAME'].toString().substring(0, 3)
         })
@@ -62,8 +63,8 @@ const getAllHomelessForDashboardService = async () => {
         nodes.push({
             id: item['HOMELESS_ID'],
             labelLong: item['NAME'],
-            label: item['NAME'].toString().substring(0, 3),
-            size: 30,
+            label: item['NAME'].toString().substring(0, 8),
+            size: 50,
             style: {fill: '#87BBF1'}
         })
         let currServiceMap = item['ORG_SERVICE']
