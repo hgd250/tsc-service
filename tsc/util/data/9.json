@@ -1,0 +1,40 @@
+{
+  "HOMELESS_ID": "08386198-0a9d-4420-84ed-92e999de8c69",
+  "BIRTHDAY": "1984-05-07",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Healthcare",
+          "COMMENT_TIME": "2022-10-24 10:48:09",
+          "COMMENT_USER": "Ruta",
+          "COMMENT_ORG": "Google"
+        }
+  ],
+  "ENTER_DATE": "2023-04-10 10:48:09",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2022-12-02",
+  "NAME": "Emerson",
+  "ORG2": true,
+  "SERVICE3": true,
+  "ORG_SERVICE": {
+      "ORG2": {
+          "ORG_NAME": "Google",
+          "SERVICE3": {
+              "SERVICE_NAME": "Healthcare",
+              "START_DATE": "2023-11-05",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2022-11-01 10:48:09"
+                  }
+              ],
+              "END_DATE": "2023-11-19"
+          }
+      }
+  },
+  "PERMANENT_DATE": "2024-01-22",
+  "PHONE": "14141953692",
+  "REQUEST": "Need jobs",
+  "STATUS": "PERMANENT"
+}

@@ -1,0 +1,179 @@
+{
+  "HOMELESS_ID": "ccac2690-3939-4bc4-94e5-31b93cd15e49",
+  "BIRTHDAY": "1999-05-12",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Healthcare",
+          "COMMENT_TIME": "2023-05-03 10:48:09",
+          "COMMENT_USER": "Sterling",
+          "COMMENT_ORG": "Amazon"
+        }
+        ,
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Provide Job",
+          "COMMENT_TIME": "2023-02-03 10:48:09",
+          "COMMENT_USER": "Daena",
+          "COMMENT_ORG": "IBM"
+        }
+        ,
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Addiction Treatment",
+          "COMMENT_TIME": "2023-09-01 10:48:09",
+          "COMMENT_USER": "Ivy",
+          "COMMENT_ORG": "Addiction Treatment Center"
+        }
+        ,
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Provide Job",
+          "COMMENT_TIME": "2023-03-31 10:48:09",
+          "COMMENT_USER": "Tate",
+          "COMMENT_ORG": "Citigroup Global Markets Inc"
+        }
+  ],
+  "ENTER_DATE": "2023-06-16 10:48:09",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2023-06-15",
+  "NAME": "Harrison",
+  "ORG3": true,
+  "ORG8": true,
+  "ORG5": true,
+  "ORG1": true,
+  "SERVICE3": true,
+  "SERVICE5": true,
+  "SERVICE4": true,
+  "ORG_SERVICE": {
+      "ORG1": {
+          "ORG_NAME": "Citigroup Global Markets Inc",
+          "SERVICE5": {
+              "SERVICE_NAME": "Provide Job",
+              "START_DATE": "2024-02-12",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase1",
+                      "TIME": "2023-04-11 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase2",
+                      "TIME": "2024-02-26 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2024-02-24 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase5",
+                      "TIME": "2023-12-23 10:48:09"
+                  }
+              ],
+              "END_DATE": "2024-01-20"
+          }
+      }
+      ,
+      "ORG3": {
+          "ORG_NAME": "Amazon",
+          "SERVICE3": {
+              "SERVICE_NAME": "Healthcare",
+              "START_DATE": "2024-01-29",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-08-02 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase2",
+                      "TIME": "2023-04-28 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase1",
+                      "TIME": "2023-11-04 10:48:09"
+                  }
+              ],
+              "END_DATE": "2024-01-03"
+          }
+      }
+      ,
+      "ORG5": {
+          "ORG_NAME": "Addiction Treatment Center",
+          "SERVICE4": {
+              "SERVICE_NAME": "Addiction Treatment",
+              "START_DATE": "2024-02-07",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-08-21 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-08-19 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-05-26 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2022-10-21 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2023-05-06 10:48:09"
+                  }
+              ],
+              "END_DATE": "2024-06-05"
+          }
+      }
+      ,
+      "ORG8": {
+          "ORG_NAME": "IBM",
+          "SERVICE5": {
+              "SERVICE_NAME": "Provide Job",
+              "START_DATE": "2024-02-09",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-10-21 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase2",
+                      "TIME": "2023-07-29 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2023-07-25 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-12-29 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-10-05 10:48:09"
+                  }
+              ],
+              "END_DATE": "2023-10-05"
+          }
+      }
+  },
+  "PERMANENT_DATE": "",
+  "PHONE": "13454319232",
+  "REQUEST": "Need jobs",
+  "STATUS": "ASSIGNED"
+}

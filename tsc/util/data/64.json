@@ -1,0 +1,40 @@
+{
+  "HOMELESS_ID": "3c67b14f-ef84-47eb-ab11-0b81bfe6dbbe",
+  "BIRTHDAY": "1967-12-16",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Addiction Treatment",
+          "COMMENT_TIME": "2022-10-15 10:48:09",
+          "COMMENT_USER": "Keats",
+          "COMMENT_ORG": "Citigroup Global Markets Inc"
+        }
+  ],
+  "ENTER_DATE": "2023-03-05 10:48:09",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2022-10-03",
+  "NAME": "Dot",
+  "ORG1": true,
+  "SERVICE4": true,
+  "ORG_SERVICE": {
+      "ORG1": {
+          "ORG_NAME": "Citigroup Global Markets Inc",
+          "SERVICE4": {
+              "SERVICE_NAME": "Addiction Treatment",
+              "START_DATE": "2024-03-20",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase1",
+                      "TIME": "2024-03-11 10:48:09"
+                  }
+              ],
+              "END_DATE": "2023-12-06"
+          }
+      }
+  },
+  "PERMANENT_DATE": "",
+  "PHONE": "15566549589",
+  "REQUEST": "Need addiction treatment",
+  "STATUS": "UNASSIGNED"
+}

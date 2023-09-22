@@ -1,0 +1,85 @@
+{
+  "HOMELESS_ID": "3071dde4-e067-434d-8d48-370ee670c769",
+  "BIRTHDAY": "1954-06-26",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Training",
+          "COMMENT_TIME": "2024-02-02 10:48:09",
+          "COMMENT_USER": "Ashton",
+          "COMMENT_ORG": "Apple"
+        }
+        ,
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Addiction Treatment",
+          "COMMENT_TIME": "2023-10-19 10:48:09",
+          "COMMENT_USER": "Autumn",
+          "COMMENT_ORG": "Citigroup Global Markets Inc"
+        }
+  ],
+  "ENTER_DATE": "2023-04-03 10:48:09",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2023-02-01",
+  "NAME": "Maizie",
+  "ORG6": true,
+  "ORG1": true,
+  "SERVICE1": true,
+  "SERVICE4": true,
+  "ORG_SERVICE": {
+      "ORG1": {
+          "ORG_NAME": "Citigroup Global Markets Inc",
+          "SERVICE4": {
+              "SERVICE_NAME": "Addiction Treatment",
+              "START_DATE": "2024-01-25",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2022-11-25 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase5",
+                      "TIME": "2023-06-12 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase5",
+                      "TIME": "2023-06-22 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase1",
+                      "TIME": "2023-06-14 10:48:09"
+                  }
+                  ,
+                  {
+                      "DESC": "Work on phase3",
+                      "TIME": "2022-12-01 10:48:09"
+                  }
+              ],
+              "END_DATE": "2023-11-16"
+          }
+      }
+      ,
+      "ORG6": {
+          "ORG_NAME": "Apple",
+          "SERVICE1": {
+              "SERVICE_NAME": "Training",
+              "START_DATE": "2023-12-27",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2022-10-17 10:48:09"
+                  }
+              ],
+              "END_DATE": "2024-02-29"
+          }
+      }
+  },
+  "PERMANENT_DATE": "",
+  "PHONE": "16944281363",
+  "REQUEST": "Need addiction treatment",
+  "STATUS": "UNASSIGNED"
+}

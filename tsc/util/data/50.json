@@ -1,0 +1,40 @@
+{
+  "HOMELESS_ID": "09e5c07c-7d3b-420e-ba46-fe2369ffe2ea",
+  "BIRTHDAY": "1976-03-31",
+  "COMMENTS": [
+        {
+          "COMMENT_AVANTAR": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+          "COMMENT_TAG": "Addiction Treatment",
+          "COMMENT_TIME": "2024-01-20 10:48:09",
+          "COMMENT_USER": "Greyson",
+          "COMMENT_ORG": "Citigroup Global Markets Inc"
+        }
+  ],
+  "ENTER_DATE": "2022-10-29 10:48:09",
+  "ENTER_USER": "SYSTEM",
+  "IMAGE": "https://img95.699pic.com/xsj/08/wg/1v.jpg%21/fh/300",
+  "JOIN_DATE": "2022-10-25",
+  "NAME": "Riley",
+  "ORG1": true,
+  "SERVICE4": true,
+  "ORG_SERVICE": {
+      "ORG1": {
+          "ORG_NAME": "Citigroup Global Markets Inc",
+          "SERVICE4": {
+              "SERVICE_NAME": "Addiction Treatment",
+              "START_DATE": "2023-12-06",
+              "PROGRESS_DETAIL": [
+                  {
+                      "DESC": "Work on phase4",
+                      "TIME": "2023-03-05 10:48:09"
+                  }
+              ],
+              "END_DATE": "2024-01-28"
+          }
+      }
+  },
+  "PERMANENT_DATE": "2023-12-21",
+  "PHONE": "13445236253",
+  "REQUEST": "Need food",
+  "STATUS": "UNASSIGNED"
+}
